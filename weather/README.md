@@ -8,7 +8,7 @@ openWeather API를 사용하여 날씨 출력하기.
 
 ### 실행화면
 
-<img src="./resultScreen.gif"/>
+<img src="./readme_images/resultScreen.gif"/>
 
 ### 과정
 
