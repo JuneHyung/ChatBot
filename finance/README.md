@@ -18,10 +18,10 @@ Utils.getWebText()의 경우, jsoup을 통해 get요청을 날린 결과물을 �
 
 Jsoup에 대한 설명은 아래 글들을 참고하였습니다.
 
-https://cafe.naver.com/nameyee/30969
-https://cafe.naver.com/nameyee/25306
-https://cafe.naver.com/nameyee/31299
-https://cafe.naver.com/nameyee/20799
+https://cafe.naver.com/nameyee/30969<br/>
+https://cafe.naver.com/nameyee/25306<br/>
+https://cafe.naver.com/nameyee/31299<br/>
+https://cafe.naver.com/nameyee/20799<br/>
 
 
 
@@ -107,9 +107,9 @@ F12누르고 값들을 찾아서 위치를 selelct()안에 넣어줌.
 
 ### 참고
 
-https://cafe.naver.com/nameyee/30969
-https://jinseongsoft.tistory.com/156
-https://cafe.naver.com/nameyee/33244
-https://cafe.naver.com/nameyee/25306
-https://cafe.naver.com/nameyee/31299
-https://cafe.naver.com/nameyee/20799
+https://cafe.naver.com/nameyee/30969<br/>
+https://jinseongsoft.tistory.com/156<br/>
+https://cafe.naver.com/nameyee/33244<br/>
+https://cafe.naver.com/nameyee/25306<br/>
+https://cafe.naver.com/nameyee/31299<br/>
+https://cafe.naver.com/nameyee/20799<br/>
