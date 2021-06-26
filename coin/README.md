@@ -341,14 +341,14 @@ Month()는 0부터라 +1.
 
 ### 참고
 
-https://mizzo-dev.tistory.com/entry/JavaScript정규식-숫자에-1000단위로-콤마쉼표-구분자-넣기
-https://hianna.tistory.com/422
-https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Set
-https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Number/toFixed
-https://upbit.com/exchange?code=CRIX.UPBIT.KRW-BTC
-https://docs.upbit.com/reference#시세-종목-조회
-https://docs.upbit.com/reference#ticker현재가-내역
-https://regex101.com/
+https://mizzo-dev.tistory.com/entry/JavaScript정규식-숫자에-1000단위로-콤마쉼표-구분자-넣기<br/>
+https://hianna.tistory.com/422<br/>
+https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Set<br/>
+https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Number/toFixed<br/>
+https://upbit.com/exchange?code=CRIX.UPBIT.KRW-BTC<br/>
+https://docs.upbit.com/reference#시세-종목-조회<br/>
+https://docs.upbit.com/reference#ticker현재가-내역<br/>
+https://regex101.com/<br/>
 
 
 
