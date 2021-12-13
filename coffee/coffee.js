@@ -81,7 +81,6 @@ function shuffleCoffeList() {
   let idxList = [];  
   for (let i = 0; i < personList.length; i++) { 
     while (idxList.length != personCnt) { 
-      // let idx = Math.floor(Math.random() * personCnt);
       let idx = makeRandomNumber(personCnt);
       if (idxList.indexOf(idx) == -1) { 
         idxList.push(idx);
