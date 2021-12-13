@@ -81,7 +81,8 @@ function shuffleCoffeList() {
   let idxList = [];  
   for (let i = 0; i < personList.length; i++) { 
     while (idxList.length != personCnt) { 
-      let idx = Math.floor(Math.random() * personCnt);
+      // let idx = Math.floor(Math.random() * personCnt);
+      let idx = makeRandomNumber(personCnt);
       if (idxList.indexOf(idx) == -1) { 
         idxList.push(idx);
       }
@@ -108,9 +109,18 @@ function makeShuffleList(idxList) {
   }
 }
 function getLuckyPerson() { 
-  let luckyIdx = Math.floor(Math.random() * personCnt);
-  const resultMessage = '오늘 커피를 살 행운의 당첨자는 ' + personList[luckyIdx] + ' 입니다.';
+  // let luckyIdx = Math.floor(Math.random() * personCnt);
+  const luckyIdx = makeRandomNumber(personCnt);
+  const resultMessage = '오늘 커피를 살 행운의 당첨자는 ' + personList[luckyIdx] + ' 입니다.\n';
   return resultMessage;
+}
+
+function makeRandomNumber(range) {
+  if (range <= 0) {
+    return -1;
+  }else{
+    return new Number(new java.security.SecureRandom().nextInt(range));
+  }
 }
 //아래 4개의 메소드는 액티비티 화면을 수정할때 사용됩니다.
 function onCreate(savedInstanceState, activity) {
